@@ -17,6 +17,6 @@ public class SumEqualToK {
 
 	}
 	
-	public 
+	//public 
 
 }

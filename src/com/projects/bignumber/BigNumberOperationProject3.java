@@ -1,4 +1,4 @@
-package _PROJECT3;
+package com.projects.bignumber;
 
 import java.io.BufferedReader;
 import java.io.FileInputStream;

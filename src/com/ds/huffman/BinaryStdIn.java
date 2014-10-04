@@ -1,7 +1,7 @@
 /**
  * 
  */
-package HUFFMAN;
+package com.ds.huffman;
 
 /**
  * @author Dany

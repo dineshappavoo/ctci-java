@@ -1,7 +1,7 @@
 /**
  * 
  */
-package _PRIORITY_QUEUE_HEAP;
+package com.ctci.datastructures;
 
 /**
  * @author Dany

@@ -1,7 +1,7 @@
 /**
  * 
  */
-package NanoSatisfi;
+package com.company.nanosatisfi;
 
 /**
  * @author Dany

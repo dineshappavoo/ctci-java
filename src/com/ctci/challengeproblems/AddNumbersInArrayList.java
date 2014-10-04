@@ -1,7 +1,7 @@
 /**
  * 
  */
-package _CHALLENGE;
+package com.ctci.challengeproblems;
 
 import java.util.ArrayList;
 import java.util.HashSet;

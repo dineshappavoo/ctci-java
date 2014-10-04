@@ -1,7 +1,7 @@
 /**
  * 
  */
-package _TREE_IMPLEMENTAION;
+package com.ctci.treesandgraphs;
 
 /**
  * @author Dany

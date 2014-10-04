@@ -1,7 +1,7 @@
 /**
  * 
  */
-package _ARRAYS_AND_STRINGS;
+package com.ctci.arrayandstrings;
 
 /**
  * @author Dany

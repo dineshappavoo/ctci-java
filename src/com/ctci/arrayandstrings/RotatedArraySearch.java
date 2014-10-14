@@ -4,7 +4,7 @@
 package com.ctci.arrayandstrings;
 
 /**
- * @author Dany
+ * @author Dinesh Appavoo
  *
  */
 public class RotatedArraySearch {
